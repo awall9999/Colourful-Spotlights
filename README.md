@@ -25,3 +25,6 @@ enclosure (i use 3mm MDF here)
 1 DC power socket
 1 Power supply 5-20V
 wires, glue, srews, nuts, tools,
+
+
+Details https://alainsprojects.com/2023/10/12/colourful-spotlights/
